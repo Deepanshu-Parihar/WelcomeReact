@@ -1,0 +1,32 @@
+{
+  "name": "welcomereact",
+  "version": "1.0.0",
+  "description": "This the the project where ill be learning about react and its aspects",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Deepanshu-Parihar/WelcomeReact.git"
+  },
+  "keywords": [
+    "learn",
+    "react",
+    "namaste",
+    "react"
+  ],
+  "author": "Deepanshu Parihar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Deepanshu-Parihar/WelcomeReact/issues"
+  },
+  "homepage": "https://github.com/Deepanshu-Parihar/WelcomeReact#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
